@@ -1,3 +1,1 @@
 User-agent: *
-Disallow:
-Sitemap: https://morak-morak.github.io/sitemap.xml
