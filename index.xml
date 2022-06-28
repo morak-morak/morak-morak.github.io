@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://morak-morak.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>baekara의 포스팅</title>
+      <link>https://morak-morak.github.io/post/baekara/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://morak-morak.github.io/post/baekara/</guid>
+      <description>baekara 나는eden다.</description>
+    </item>
+    
+    <item>
       <title>chalee의 포스팅</title>
       <link>https://morak-morak.github.io/post/chalee/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
@@ -40,6 +49,15 @@
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://morak-morak.github.io/post/tester/</guid>
+      <description>제목입니다. 테스트용입니다.</description>
+    </item>
+    
+    <item>
+      <title>test-title</title>
+      <link>https://morak-morak.github.io/post/tester2/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://morak-morak.github.io/post/tester2/</guid>
       <description>제목입니다. 테스트용입니다.</description>
     </item>
     
