@@ -5,6 +5,16 @@
     <link>https://morak-morak.github.io/categories/</link>
     <description>Recent content in Categories on MORAK</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://morak-morak.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://morak-morak.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>testing</title>
+      <link>https://morak-morak.github.io/categories/testing/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://morak-morak.github.io/categories/testing/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
