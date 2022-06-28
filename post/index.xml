@@ -70,5 +70,14 @@
       <description>제목입니다. 테스트용입니다.</description>
     </item>
     
+    <item>
+      <title>test-title</title>
+      <link>https://morak-morak.github.io/post/tester4/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://morak-morak.github.io/post/tester4/</guid>
+      <description>제목입니다. 테스트용입니다.</description>
+    </item>
+    
   </channel>
 </rss>
