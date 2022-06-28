@@ -6,7 +6,16 @@
     <description>Recent content on MORAK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://morak-morak.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://morak-morak.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>엘리의 포스팅</title>
+      <link>https://morak-morak.github.io/post/ellie/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://morak-morak.github.io/post/ellie/</guid>
+      <description>엘리 나는 한해리다.</description>
+    </item>
+    
     <item>
       <title>test-title</title>
       <link>https://morak-morak.github.io/post/tester/</link>
