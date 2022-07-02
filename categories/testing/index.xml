@@ -72,6 +72,7 @@
     
     <item>
       <title>test-title</title>
+<<<<<<< HEAD
       <link>https://morak-morak.github.io/post/tester12/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
       
@@ -81,6 +82,8 @@
     
     <item>
       <title>test-title</title>
+=======
+>>>>>>> 804134026f93d13bb07c6ffedf23b92791164054
       <link>https://morak-morak.github.io/post/tester2/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
       
