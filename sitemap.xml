@@ -50,9 +50,12 @@
     <loc>https://morak-morak.github.io/post/tester6/</loc>
     <lastmod>2020-02-23T00:00:00+00:00</lastmod>
   </url><url>
+<<<<<<< HEAD
     <loc>https://morak-morak.github.io/post/tester8/</loc>
     <lastmod>2020-02-23T00:00:00+00:00</lastmod>
   </url><url>
+=======
+>>>>>>> 81e00931d184875c7b2fb45aa6fc7b2308c8a129
     <loc>https://morak-morak.github.io/search/</loc>
   </url>
 </urlset>
