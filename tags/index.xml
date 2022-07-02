@@ -5,16 +5,6 @@
     <link>https://morak-morak.github.io/tags/</link>
     <description>Recent content in Tags on MORAK</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://morak-morak.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>test-tag</title>
-      <link>https://morak-morak.github.io/tags/test-tag/</link>
-      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://morak-morak.github.io/tags/test-tag/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://morak-morak.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

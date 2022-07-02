@@ -2,84 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://morak-morak.github.io/post/baekara/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://morak-morak.github.io/categories/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/chalee/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://morak-morak.github.io/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/tags/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/tags/test-tag/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/categories/testing/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/eden/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/ellie/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/tester/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/tester10/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/tester11/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/tester12/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/tester13/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/tester14/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/tester15/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/tester16/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/tester2/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/tester3/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/tester4/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/tester5/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/tester6/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/tester7/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/tester8/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/tester9/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://morak-morak.github.io/search/</loc>
+  </url><url>
+    <loc>https://morak-morak.github.io/tags/</loc>
   </url>
 </urlset>
