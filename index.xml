@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>MORAK</title>
     <link>https://morak-morak.github.io/</link>
@@ -54,6 +54,15 @@
     
     <item>
       <title>test-title</title>
+      <link>https://morak-morak.github.io/post/tester10/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://morak-morak.github.io/post/tester10/</guid>
+      <description>제목입니다. 테스트용입니다.</description>
+    </item>
+    
+    <item>
+      <title>test-title</title>
       <link>https://morak-morak.github.io/post/tester2/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
       
@@ -98,7 +107,15 @@
     </item>
     
     <item>
-<<<<<<< HEAD
+      <title>test-title</title>
+      <link>https://morak-morak.github.io/post/tester7/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://morak-morak.github.io/post/tester7/</guid>
+      <description>제목입니다. 테스트용입니다.</description>
+    </item>
+    
+    <item>
       <title>test-title</title>
       <link>https://morak-morak.github.io/post/tester8/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
@@ -107,15 +124,15 @@
       <description>제목입니다. 테스트용입니다.</description>
     </item>
     
-=======
-      <title>Search</title>
-      <link>https://morak-morak.github.io/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+    <item>
+      <title>test-title</title>
+      <link>https://morak-morak.github.io/post/tester9/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://morak-morak.github.io/search/</guid>
-      <description>search</description>
+      <guid>https://morak-morak.github.io/post/tester9/</guid>
+      <description>제목입니다. 테스트용입니다.</description>
     </item>
->>>>>>> 81e00931d184875c7b2fb45aa6fc7b2308c8a129
+    
     
   </channel>
 </rss>
