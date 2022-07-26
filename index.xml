@@ -5,17 +5,7 @@
     <link>https://morak-morak.github.io/</link>
     <description>Recent content on MORAK</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://morak-morak.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>모락의 첫 번째 글입니다.</title>
-      <link>https://morak-morak.github.io/post/init/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://morak-morak.github.io/post/init/</guid>
-      <description> 안녕하세요. 모임을 편하게, 펀하게! 모락 서비스를 만들고 있습니다.  </description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://morak-morak.github.io/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

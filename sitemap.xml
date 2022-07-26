@@ -2,23 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://morak-morak.github.io/</loc>
-    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/tags/none/</loc>
-    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/</loc>
-    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/tags/</loc>
-    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://morak-morak.github.io/post/init/</loc>
-    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://morak-morak.github.io/categories/</loc>
   </url><url>
+    <loc>https://morak-morak.github.io/</loc>
+  </url><url>
     <loc>https://morak-morak.github.io/search/</loc>
+  </url><url>
+    <loc>https://morak-morak.github.io/tags/</loc>
   </url>
 </urlset>
