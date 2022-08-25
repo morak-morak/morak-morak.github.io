@@ -5,6 +5,34 @@
     <link>https://morak-morak.github.io/tags/</link>
     <description>Recent content in Tags on MORAK</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://morak-morak.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://morak-morak.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JPA</title>
+      <link>https://morak-morak.github.io/tags/jpa/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://morak-morak.github.io/tags/jpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lazy loading</title>
+      <link>https://morak-morak.github.io/tags/lazy-loading/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://morak-morak.github.io/tags/lazy-loading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proxy</title>
+      <link>https://morak-morak.github.io/tags/proxy/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://morak-morak.github.io/tags/proxy/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
