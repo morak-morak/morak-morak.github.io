@@ -9,10 +9,10 @@
     <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://morak-morak.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>지연 로딩 시 프록시 객체 대응</title>
-      <link>https://morak-morak.github.io/post/draft/</link>
+      <link>https://morak-morak.github.io/post/jpa-lazy-loading-proxy-error/</link>
       <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://morak-morak.github.io/post/draft/</guid>
+      <guid>https://morak-morak.github.io/post/jpa-lazy-loading-proxy-error/</guid>
       <description>마주한 문제 상황 프로젝트 중 도메인 객체를 equals 로 비교해야 할 로직이 필요했습니다.
 그래서 findById 로 객체를 불러서 비교를 하려고 하는데 원하는대로 결과가 나오지 않았습니다.
 디버그를 찍어보니 비교하는 과정에서 계속 인자로 들어온 비교할 객체가 프록시 객체 상태였습니다.
